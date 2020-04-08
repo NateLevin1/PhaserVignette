@@ -8,7 +8,7 @@ Quickstart:
 
 Download pipeline.js and import it into your Phaser project.
 
-The shader is added to the scene (in create()) with:
+The shader is added to the scene (in `create()`) with:
 ```
 this.Vignette = this.game.renderer.addPipeline('Vignette', new Vignette(this.game));
 ```
