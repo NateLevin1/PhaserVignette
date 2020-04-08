@@ -90,4 +90,5 @@ Controls the RGB values of every pixel, including those not in the vignette.
 I find it looks best when both of the above are used together. Note that changing the above two values to anything other than 1.0 can create some jenky looking results.
 
 `this.cameras.main.setRenderToTexture(this.Vignette);`
+
 This is what applies the shader to the scene.
