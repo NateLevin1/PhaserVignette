@@ -1,0 +1,44 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "image",
+      "key": "bg",
+      "url": "assets/bg.png",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "bloomPlayer",
+      "url": "assets/bloomPlayer.png",
+      "normalMap": ""
+    },
+    {
+      "type": "image",
+      "key": "bloomEnemy",
+      "url": "assets/bloomEnemy.png"
+    }
+  ]},
+  "meta": {
+    "generated": "1586370085088",
+    "app": "Phaser Editor 2D - Asset Pack Editor - 2.1.6",
+    "contentType": "Phaser v3 Asset Pack",
+    "url": "https://phasereditor2d.com",
+    "version": "2"
+  }
+}
