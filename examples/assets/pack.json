@@ -1,20 +1,9 @@
 {
   "section1": {"files": [
     {
-      "type": "animation",
-      "key": "animations",
-      "url": "assets/animations.json"
-    },
-    {
       "type": "sceneFile",
       "key": "Scene1",
       "url": "assets/scenes/Scene1.js"
-    },
-    {
-      "type": "multiatlas",
-      "key": "textures",
-      "url": "assets/atlas/textures.json",
-      "path": "assets/atlas"
     },
     {
       "type": "image",
