@@ -1,3 +1,6 @@
+# Please Note: This shader no longer works in modern Phaser.
+Some small modifications are needed to work with the updated Phaser rendering pipeline.
+
 # PhaserVignette
 A pipeline file which allows for the easy integration of vignette shaders into a Phaser3 game. Based on Jerome Renaux's spotlight shader.
 
